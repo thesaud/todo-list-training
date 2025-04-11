@@ -8,3 +8,4 @@
 - saud alqurashi
 - sami alqurashi
 - here i got fear
+- practice more Git commands
