@@ -1,3 +1,5 @@
 # To-Do List
 - Learn Git basics
 - Practice branching
+- Finish Git training project
+- Review pull request process
