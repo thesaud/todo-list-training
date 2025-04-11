@@ -1,5 +1,5 @@
 # To-Do List
-- [Learning] Learn Git basics<In Progress>
+- [Learning] Learn Git basics<finish>
 - [Learning] Practice branching
 - [Project] Finish Git training project
 - [Review] Review pull request process???????
