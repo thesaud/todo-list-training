@@ -1,11 +1,10 @@
 # To-Do List
-- Learn Git basics
-- Practice branching
-- Finish Git training project
-- Review pull request process
-- sleep eraly 
-- eat healthy 
-- saud alqurashi
-- sami alqurashi
-- here i got fear
-- practice more Git commands
+- [Learning] Learn Git basics
+- [Learning] Practice branching
+- [Project] Finish Git training project
+- [Review] Review pull request process
+- [Health] Sleep early
+- [Health] Eat healthy
+- [Personal] Saud Alqurashi
+- [Personal] Sami Alqurashi
+- [Personal] Here I got fear
