@@ -1,10 +1,10 @@
 # To-Do List
-- [Learning] Learn Git basics
+- [Learning] Learn Git basics????
 - [Learning] Practice branching
 - [Project] Finish Git training project
-- [Review] Review pull request process
+- [Review] Review pull request process???????
 - [Health] Sleep early
 - [Health] Eat healthy
-- [Personal] Saud Alqurashi
+- [Personal] Saud Alqurashi??????????????
 - [Personal] Sami Alqurashi
 - [Personal] Here I got fear
