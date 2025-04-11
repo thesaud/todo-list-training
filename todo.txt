@@ -1,0 +1,3 @@
+# To-Do List
+- Learn Git basics
+- Practice branching
