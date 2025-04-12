@@ -1,7 +1,7 @@
 # To-Do List
 - [Learning] Learn Git basics<hello>
-- [Learning] Practice branching
-- [Project] Finish Git training project
+- [Learning] Practice branching hello momey
+- [Project] Finish Git training project 
 - [Review] Review pull request process???????
 - [Health] Sleep early
 - [Health] Eat healthy
